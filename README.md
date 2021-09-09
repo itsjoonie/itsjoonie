@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on bobafied!
+- 🔭 I’m currently working on <a href='https://github.com/itsjoonie/Bobafied'>Bobafied</a>
 - 🌱 I’m currently learning data structure and algorithms. 
 - ⚡ Fun fact: ... I made it a goal to tried all the fried chicken sandwhiches. 
