@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on bobafied!
+- 🌱 I’m currently learning data structure and algorithms. 
+- - ⚡ Fun fact: ... I made it a goal to tried all the fried chicken sandwhiches. 
