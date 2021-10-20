@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on <a href='https://github.com/itsjoonie/bobafied'>Bobafied</a>
-- 🌱 I’m currently learning data structure and algorithms. 
-- ⚡ Fun fact: ... I made it a goal to try all the fried chicken sandwhiches. 
+- 🔍 I’m currently seeking for a software engineering opportunity. My interest is in front end and full stack development.
+- 🌱 I’m currently learning TypeScript and DS&A!
+- 🔭 I’m currently working on building a e-commerce application for my candle-making hobby. 
+- ⚡ Fun fact: ... I made it a goal to try all the fried chicken sandwhiches in the world! 
