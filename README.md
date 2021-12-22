@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔍 I’m currently seeking for a software engineering opportunity. My interest is in front end and full stack development.
+- 🔭 I’m currently working on building a full stack e-commerce application for my candle-making hobby.
 - 🌱 I’m currently learning TypeScript and DS&A!
-- 🔭 I’m currently working on building a full stack e-commerce application for my candle-making hobby. 
 - ⚡ Fun fact: ... I made it a goal to try all the fried chicken sandwhiches in the world! 
 
 Check out my portfolio: https://itsjoonie.github.io/
