@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript and DS&A!
 - ⚡ Fun fact: ... I made it a goal to try all the fried chicken sandwhiches in the world! 
 
-Check out my portfolio: https://itsjoonie.github.io/
+Check out my portfolio: [Here!](https://itsjoonie.github.io/)
